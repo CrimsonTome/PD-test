@@ -1,6 +1,6 @@
 {
   "name": "notacampusmap",
-  "version": "0.1",
+  "version": "0.0.1",
   "description": "A campus map with events for the University of.",
   "scripts": {
     "clean": "rimraf public",
